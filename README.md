@@ -7,3 +7,7 @@
 <h1 align="center">
 <img alt="AlexSoaresDeSiqueira" src="https://github-readme-stats.codestackr.vercel.app/api?username=AlexSoaresDeSiqueira&show_icons=true&hide_border=true&theme=dark" />
 </h1>
+
+<a href="https://github.com/Daggy1234">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexSoaresDeSiqueira&layout=compact&theme=dark" />
+</a>
