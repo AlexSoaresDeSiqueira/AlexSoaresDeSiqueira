@@ -4,7 +4,6 @@
 [![SpeakerDeck](https://img.shields.io/badge/slides-SpeakerDeck-brightgreen.svg)](https://speakerdeck.com/alexsoaresdesiqueira)
 
 <hr>
-<h1 align="center">
 <img alt="AlexSoaresDeSiqueira" src="https://github-readme-stats.codestackr.vercel.app/api?username=AlexSoaresDeSiqueira&show_icons=true&hide_border=true&theme=dark" />
 </h1>
 
